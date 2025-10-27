@@ -3,7 +3,7 @@
 **Neural Network Training Visualization — an educational Python/Matplotlib demo illustrating decreasing loss, increasing accuracy, and a schematic network representation.**
 
 **Author:** Svetlana Romanova — SvetLuna Studio  
-**LinkedIn:** https://www.linkedin.com/in/svetlana-romanova-ai
+**LinkedIn:** https://www.linkedin.com/in/svetlana-romanova-418596387
 
 ---
 
