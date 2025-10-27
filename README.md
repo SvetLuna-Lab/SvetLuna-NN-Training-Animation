@@ -102,3 +102,7 @@ Contact
 Svetlana Romanova — SvetLuna Studio
 LinkedIn: https://www.linkedin.com/in/svetlana-romanova-ai
 
+Note: This repository is an educational demonstration. The visual style is intentionally simple to highlight concepts rather than production-ready visuals.
+
+Poetic closing: where curves converge and lights stabilise, the model learns — quietly, reliably, and with purpose.
+
