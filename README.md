@@ -10,6 +10,37 @@
 ## Overview
 This project provides a concise visual demonstration of neural network training dynamics. It shows a loss curve decreasing, an accuracy curve increasing, and a schematic network whose activations evolve as training progresses. The goal is to give beginners and educators an intuitive, visual explanation of how models learn.
 
+
+## 🔧 Python demo code
+
+In addition to the video and archive, this repository now contains a small
+pure-Python / Matplotlib demo:
+
+- `src/nn_training_animation.py` — generates synthetic loss/accuracy curves and
+  an animated schematic neural network.
+- `nn_training_animation.mp4` — an exported animation (example output).
+
+
+### Quickstart
+
+Create a virtual environment (optional) and install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+Run the animation interactively:
+
+python -m src.nn_training_animation
+
+Or render and save an MP4 (requires ffmpeg to be installed):
+
+python -m src.nn_training_animation save
+
+The legacy project archive is kept as:
+
+SvetLuna-NN-Animation-Project-ready.zip — original project bundle.
+
+
 ## Contents
 - `src/generate_animation.py` — script to generate the animation (MP4).  
 - `example/` — example output (store large video files as Release assets; do not keep large binaries in Git history).  
